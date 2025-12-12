@@ -93,4 +93,6 @@ A primitive L1 direct-mapped cache will be implemented. Further data cache is an
 # Phase 7: Additional Cores
 At least one more core will be added to improve parallel performance.  4 may be a consideration but is only optional.
 
+Hi just testing something
+
 ![TD](images/Terry_A._Davis.jpg "Terry Davis")
