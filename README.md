@@ -53,5 +53,5 @@ Support basic memory-to-memory transfers
 Add bus arbitration logic
 Allow CPU and DMA to operate concurrently
 
-# Phase 7: Cache Integration
+# Phase 6: Cache Integration
 A primitive L1 direct-mapped cache will be implemented. Further data cache is an option aswell
