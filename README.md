@@ -89,3 +89,6 @@ Allow CPU and DMA to operate concurrently
 
 # Phase 6: Cache Integration
 A primitive L1 direct-mapped cache will be implemented. Further data cache is an option aswell
+
+# Phase 7: Additional Cores
+At least one more core will be added to improve parallel performance.  4 may be a consideration but is only optional.
