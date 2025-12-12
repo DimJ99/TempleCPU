@@ -96,4 +96,4 @@ At least one more core will be added to improve parallel performance.  4 may be 
 # Our Cache is on time and ahead of time
 zero cache misses
 
-![TD](images/Terry_A._Davis.jpg "Terry Davis")
+![C](img/chud.png "Millions must Chud")
