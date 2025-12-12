@@ -93,6 +93,9 @@ A primitive L1 direct-mapped cache will be implemented. Further data cache is an
 # Phase 7: Additional Cores
 At least one more core will be added to improve parallel performance.  4 may be a consideration but is only optional.
 
+# Phase 8: Updated Bus
+Given the increased data demands within the cpu, add AXI with a bridge to AHB and potentially rewrite the DMA to interface with the AXI.  Consider adding and APB to reduce the hardware requirements for lower speed peripherals while keeping AHB for higher speed peripherals such as potential later accelerators we may add.
+
 # Our Cache is on time and ahead of time
 zero cache misses
 
